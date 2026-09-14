@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "versionCode": 5,
-  "notes": "다단 원형 핀 생성기 추가 (BUR-PUNCH 등 3단 이상 원형 핀용)",
-  "apkUrl": "https://github.com/donggiue/shape-cad-web-releases/releases/download/v1.4/CAD._v1.4_.apk"
+  "version": "1.7",
+  "versionCode": 8,
+  "notes": "형상pin 생성기 스크롤 문제 수정, 로그인 상태 유지 기능 추가",
+  "apkUrl": ""
 }
